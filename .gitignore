@@ -1,3 +1,17 @@
 node_modules
 .env.local
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon\r files (weird resource fork icons)
+Icon
+
+# Thumbnails
 ._*
+
+# Files that might appear in some directories
+.Spotlight-V100
+.Trashes
